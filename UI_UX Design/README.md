@@ -1,4 +1,1 @@
-Basic mock up for how the page can look.
-Current models done by Alex.
-
-![](UI Design.png)
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
