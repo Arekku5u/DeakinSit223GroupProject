@@ -1,0 +1,37 @@
+/*event in day or week view*/
+.dhx_cal_event.booked_event div {
+    background-color: #cf309e !important;
+    color: white !important;
+}
+
+.dhx_cal_event.unbooked_event div {
+    background-color: #06f9a4 !important;
+    color: black !important;
+}
+
+/*multi-day event in month view*/
+.dhx_cal_event_line.booked_event {
+    background-color: #cf309e !important;
+    color: white !important;
+}
+
+.dhx_cal_event_line.unbooked_event {
+    background-color: #06f9a4 !important;
+    color: black !important;
+}
+
+/*event with fixed time, in month view*/
+.dhx_cal_event_clear.booked_event {
+    background-color: #cf309e !important;
+    color: white !important;
+}
+
+.dhx_cal_event_clear.unbooked_event {
+    background-color: #06f9a4 !important;
+    color: black !important;
+}
+
+.dhx_cal_wide_checkbox input {
+    z-index: 1000;
+    position: relative;
+}

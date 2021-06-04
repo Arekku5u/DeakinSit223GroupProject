@@ -1,0 +1,6 @@
+id,fname,lname,email,password,role
+1,Hamish,Glover,hfglover@deakin.edu.au,test,student
+2,Admin,User,admin@test.com,admin,organiser
+3,Testuser,test,x,password,student
+4,Alex,Hall,awhall@deakin.edu.au,ChickenLips
+5,Mason,O'Neill,mason@gmail.com,abc123
