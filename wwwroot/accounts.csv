@@ -1,0 +1,3 @@
+id,fname,lname,email,password,role
+1,Hamish,glover,hfglover@deakin.edu.au,test,student
+2,Testacc,Testaccount,test@gmail.com,x,organiser
